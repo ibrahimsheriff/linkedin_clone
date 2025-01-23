@@ -10,7 +10,7 @@ class OnBoardingEntity {
       title: "Find and land your next job",
     ),
     OnBoardingEntity(
-      image: "on_boarding_2.jpg",
+      image: "on_boarding_2.png",
       title: "Build your nextwork on the go",
     ),
   ];
